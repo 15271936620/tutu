@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.content{
+    left:100px;
+    top:100px;
+    padding :15px 30px;
+    position: relative;
+}
